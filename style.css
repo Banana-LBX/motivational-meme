@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 60px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.heading {
+    font-weight: 100;
+    font-size: 55px;
+}
+
+.paragraph {
+    font-size: 25px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
